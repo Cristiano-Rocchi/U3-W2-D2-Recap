@@ -1,11 +1,11 @@
-import { useState } from "react";
+/* import { useState } from "react"; */
 import { Card } from "react-bootstrap";
 
 const SingleBook = (props) => {
   // state = {
   //   selected: false
   // };
-  const [selected, setSelected] = useState(false);
+  /*  const [selected, setSelected] = useState(false); */
 
   return (
     <Card
